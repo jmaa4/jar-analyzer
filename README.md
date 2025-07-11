@@ -1,4 +1,4 @@
-# Jar-Analyzer
+9044e16b35e4e37ecd14cf9f98db254cbae2c1bf# Jar-Analyzer
 
 [CHANGE LOG](src/main/resources/CHANGELOG.MD)
 
